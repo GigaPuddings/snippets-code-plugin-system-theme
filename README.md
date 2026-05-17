@@ -16,7 +16,7 @@ https://github.com/GigaPuddings/snippets-code-plugin-system-theme/archive/refs/h
 Versioned release URL:
 
 ```text
-https://github.com/GigaPuddings/snippets-code-plugin-system-theme/archive/refs/tags/v1.5.6.zip
+https://github.com/GigaPuddings/snippets-code-plugin-system-theme/archive/refs/tags/1.5.6.zip
 ```
 
 This repository is synchronized from the main application repository by
