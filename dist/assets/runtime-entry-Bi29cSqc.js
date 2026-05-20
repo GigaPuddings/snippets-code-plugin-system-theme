@@ -7886,7 +7886,7 @@ const hd = () => {
     target: "layout",
     path: "/dark-mode",
     name: "DarkMode",
-    component: /* @__PURE__ */ vl(() => import("./index-BxmxceUS.js"))
+    component: /* @__PURE__ */ vl(() => import("./index-mXKVQzIq.js"))
   }), e.registerWindowShortcut({
     label: "dark_mode"
   });
