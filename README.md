@@ -3,9 +3,9 @@
 Official installable plugin package for Snippets Code.
 
 - Plugin ID: `system-theme`
-- Version: `2.0.12`
-- Source: `docs/plugin-packages/system-theme`
-- App compatibility: `>=2.1.18`
+- Version: `2.0.13`
+- Source: `plugin-registry/packages/system-theme`
+- App compatibility: `>=2.1.36`
 
 Install URL:
 
@@ -16,7 +16,7 @@ https://github.com/GigaPuddings/snippets-code-plugin-system-theme/archive/refs/h
 Versioned release URL:
 
 ```text
-https://github.com/GigaPuddings/snippets-code-plugin-system-theme/archive/refs/tags/2.0.12.zip
+https://github.com/GigaPuddings/snippets-code-plugin-system-theme/archive/refs/tags/2.0.13.zip
 ```
 
 This repository is synchronized from the main application repository by
